@@ -39,9 +39,15 @@ img {
 h1 {
   background-color: aqua;
   border-radius: 15px 50px;
+  border: solid royalblue;
 }
 h2 {
   color: cornflowerblue;
+}
+
+#contactLink {
+  position: fixed;
+  left: 25px;
 }
 
 footer {
